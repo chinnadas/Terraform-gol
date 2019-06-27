@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-west-2"
-    access_key = "AKIAWLW3NYRIFYVJLSHU"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 resource "aws_instance" "gameoflife" {
